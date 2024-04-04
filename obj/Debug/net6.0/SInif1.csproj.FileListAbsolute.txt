@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\SInif1\bin\Debug\net6.0\SInif1.exe
+C:\Users\hp\source\repos\SInif1\bin\Debug\net6.0\SInif1.deps.json
+C:\Users\hp\source\repos\SInif1\bin\Debug\net6.0\SInif1.runtimeconfig.json
+C:\Users\hp\source\repos\SInif1\bin\Debug\net6.0\SInif1.dll
+C:\Users\hp\source\repos\SInif1\bin\Debug\net6.0\SInif1.pdb
+C:\Users\hp\source\repos\SInif1\obj\Debug\net6.0\SInif1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\SInif1\obj\Debug\net6.0\SInif1.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\SInif1\obj\Debug\net6.0\SInif1.AssemblyInfo.cs
+C:\Users\hp\source\repos\SInif1\obj\Debug\net6.0\SInif1.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\SInif1\obj\Debug\net6.0\SInif1.dll
+C:\Users\hp\source\repos\SInif1\obj\Debug\net6.0\refint\SInif1.dll
+C:\Users\hp\source\repos\SInif1\obj\Debug\net6.0\SInif1.pdb
+C:\Users\hp\source\repos\SInif1\obj\Debug\net6.0\SInif1.genruntimeconfig.cache
+C:\Users\hp\source\repos\SInif1\obj\Debug\net6.0\ref\SInif1.dll
